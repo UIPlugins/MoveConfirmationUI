@@ -1,0 +1,6 @@
+name: MoveUI
+main: delxhq\MoveUI\MoveUI
+api: [3.2.0]
+version: 1.0.0
+author: DelxHQ
+description: Are you sure you want to move forward one block? <Yes / No>
